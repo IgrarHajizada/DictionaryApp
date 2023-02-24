@@ -1,0 +1,11 @@
+map, xəritə
+apple, alma
+table, stol
+dog, it
+family, ailə
+rubbet, pozan
+phone, telefon
+glass, eynək
+pen, qələm
+word, söz
+father, ata
